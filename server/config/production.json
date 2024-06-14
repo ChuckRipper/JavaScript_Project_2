@@ -1,0 +1,21 @@
+{
+  "jwtSecret": "39e5094bf706213f8ed51fb70ec767c249664aa7fc29ec6b8e1ea8e93db40f8352a4623035ca1b862833c3fb7f34c2016d277060a200eec721f9847ab1fbf105",
+  "db": {
+    "username": "admin_db_prod",
+    "password": "adminjs123@",
+    "database": "memo_app_prod",
+    "host": "postgres_prod_db",
+    "dialect": "postgres"
+  },
+  "adminUser": {
+  "username": "admin_prod",
+  "password": "adminjs123@",
+  "email": "djczarek2@gmail.com"
+  },
+  "regularUser": {
+  "username": "user_prod",
+  "password": "userjs123@",
+  "email": "djczarek2@gmail.com"
+  }
+}
+  
