@@ -4,7 +4,7 @@
     "username": "admin_db_prod",
     "password": "adminjs123@",
     "database": "memo_app_prod",
-    "host": "postgres_prod_db",
+    "host": "localhost",
     "dialect": "postgres"
   },
   "adminUser": {

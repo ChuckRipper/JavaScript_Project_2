@@ -73,19 +73,19 @@ Aby rozpocząć pracę z Memo App, wykonaj następujące kroki:
         "jwtSecret": "00a6622c3bdbb938953509a5918f769aa0d8b522a70c1ea425810b13ff6f04a4e4ed4cb4f00c429d648911b2b24985710bacb360b1f26cdc28c172536985cf8a",
         "db": {
             "username": "admin_db_dev",
-            "password": "adminjs",
+            "password": "adminjs123@",
             "database": "memo_app_dev",
-            "host": "localhost",
+            "host": "postgres_dev_db",
             "dialect": "postgres"
         },
         "adminUser": {
         "username": "admin_dev",
-        "password": "adminjs",
+        "password": "adminjs123@",
         "email": "djczarek2@gmail.com"
         },
         "regularUser": {
         "username": "user_dev",
-        "password": "userjs",
+        "password": "userjs123@",
         "email": "djczarek2@gmail.com"
         }
     }
@@ -98,19 +98,19 @@ Aby rozpocząć pracę z Memo App, wykonaj następujące kroki:
         "jwtSecret": "39e5094bf706213f8ed51fb70ec767c249664aa7fc29ec6b8e1ea8e93db40f8352a4623035ca1b862833c3fb7f34c2016d277060a200eec721f9847ab1fbf105",
         "db": {
             "username": "admin_db_prod",
-            "password": "adminjs",
+            "password": "adminjs123@",
             "database": "memo_app_prod",
-            "host": "localhost",
+            "host": "postgres_prod_db",
             "dialect": "postgres"
         },
         "adminUser": {
         "username": "admin_prod",
-        "password": "adminjs",
+        "password": "adminjs123@",
         "email": "djczarek2@gmail.com"
         },
         "regularUser": {
         "username": "user_prod",
-        "password": "userjs",
+        "password": "userjs123@",
         "email": "djczarek2@gmail.com"
         }
     }
